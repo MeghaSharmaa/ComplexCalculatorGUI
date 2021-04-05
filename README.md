@@ -1,8 +1,6 @@
 # ComplexCalculatorGUI
 
-* The ComplexCalculator Program creates a GUI application that can be used
-* to perform operations like addition, subtraction, multiplication and
-* division on complex numbers. 
+* The ComplexCalculator Program creates a GUI application that can be used to perform operations like addition, subtraction, multiplication and division on complex numbers. 
 
 * @author Megha Sharma
 * @author Priyanshi Chauhan
